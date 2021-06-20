@@ -249,4 +249,3 @@ def echo(text):
 line = sys.argv[1]
 setup_letters()
 setup_lines(line)
-# echo(line)
